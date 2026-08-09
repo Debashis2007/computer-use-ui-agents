@@ -1,5 +1,7 @@
 # Use Case: Computer-Use / UI Agents
 
+**YouTube walkthrough:** [Computer Use Ui Agents — System Design #Shorts](https://youtu.be/0Cn4VeB4B1Y)
+
 **Design doc:** [docs/DESIGN.md](./docs/DESIGN.md) — architecture, patterns, and why.
 
 
@@ -46,6 +48,9 @@ User starts computer-use session → isolated desktop
 
 
 ## Design walkthrough (opens on GitHub)
+
+> **Watch on YouTube:** [Computer Use Ui Agents — System Design #Shorts](https://youtu.be/0Cn4VeB4B1Y)
+
 
 ![Design overview](docs/video/design-overview.gif)
 
