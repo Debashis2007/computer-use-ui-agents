@@ -1,7 +1,7 @@
 # Design: Computer-Use UI Agents
 
 **Project:** `computer-use-ui-agents`  
-**Parent system design:** [07 — Agent Runtime with Hard Containment](../07-agent-runtime-containment.md)
+**Parent system design:** [07 — Agent Runtime with Hard Containment](https://github.com/Debashis2007/computer-use-ui-agents/blob/main/07-agent-runtime-containment.md)
 
 ## 1. What this POC demonstrates
 
